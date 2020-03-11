@@ -19,17 +19,17 @@ width: 100%; }
 
 footer{font-size: 16px;}
 
-form {align: right;
+form{align-self: right;
     width: 80%;
     margin: 0 auto;}
 
-label, input {display: block;}
+label, input{display: block;}
 
-label {width: 30%;
+label{width: 30%;
     text-align: right;}
 
-label + input {width: 30%;
+label + input{width: 30%;
     margin: 0 30% 0 4%;}
 
-input + input {float: right;}
+input + input{float: right;}
 ​
