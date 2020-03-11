@@ -12,7 +12,8 @@ form {
 }
 img1{display: block;
 margin-left: auto;
-margin-right: auto;}
+margin-right: auto;
+width: 100%; }
 
 label, input {
     /* In order to define widths */
