@@ -1,12 +1,18 @@
-h1{background-color:#030303 ;
+h1{
+  font-family: TimesNewRoman, serif;
+  background-color:#030303 ;
   color: red;
 }
-body{color: white;
+body{font-family: ariel, sans-serif;
+  color: white;
   background-color: #030303;}
 form {
     width: 80%;
     margin: 0 auto;
 }
+img1{display: block;
+margin-left: auto;
+margin-right: auto;}
 
 label, input {
     /* In order to define widths */
