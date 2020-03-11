@@ -23,7 +23,7 @@ form {align: right;
     width: 80%;
     margin: 0 auto;}
 
-label, input {display: inline-block;}
+label, input {display: block;}
 
 label {width: 30%;
     text-align: right;}
