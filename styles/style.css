@@ -20,7 +20,9 @@ margin-right: auto;
 width: 100%;
 border: 2px transparent gold;}
 
-footer{font-size: 16px;}
+footer{font-size: 16px;
+border: 2px solid white;
+background-color: coral;}
 
 form{width: 80%;
     margin: 0 auto;}
