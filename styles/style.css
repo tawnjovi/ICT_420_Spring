@@ -1,5 +1,4 @@
-h1{
-  font-family: TimesNewRoman, serif;
+h1{font-family: TimesNewRoman, serif;
   background-color:#030303 ;
   color: red;
   border: 3px solid #7b42f5;
@@ -15,6 +14,15 @@ margin-right: auto;
 width: 100%;
 padding: 2px;
 border: 3px solid white; }
+
+a:hover{color: yellow;
+}
+
+a:link{color: cyan;
+}
+
+a:visited{color: grey;
+}
 
 .img2{display: block;
 margin-left: auto;
