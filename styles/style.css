@@ -44,9 +44,11 @@ form{width: 80%;
 
 textarea{position: fixed;
   resize: none;
-  align-self: right;
+  float: right;
+  text-align: right;
   height: 15px;
 width: 250px;}
 
 input{position: fixed;
-  align-self: right;}
+  float: right;
+text-align: right;}
