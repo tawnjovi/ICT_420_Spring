@@ -49,3 +49,7 @@ left: 490px;}
 textarea{resize: none;
   height: 15px;
 width: 250px;}
+
+input{position: fixed;
+  top: 22px;
+left: 490px;}
