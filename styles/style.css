@@ -43,5 +43,6 @@ textarea + input{position: absolute;
 top: 0px;
 left: 560px;}
 
-textarea{height: 10px;
-width: 80px;}
+textarea{size: absolute;
+  height: 20px;
+width: 100px;}
