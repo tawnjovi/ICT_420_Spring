@@ -2,6 +2,7 @@ h1{font-family: TimesNewRoman, serif;
   background-color:#030303 ;
   color: red;
   border: 3px solid #7b42f5;
+  margin: 0;
 }
 
 body{font-family: ariel, sans-serif;
