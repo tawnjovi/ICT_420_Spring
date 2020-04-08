@@ -43,6 +43,6 @@ textarea{position: absolute;
   top: 5px;
 left: 520px;}
 
-textarea{size: absolute;
+textarea{resize: none;
   height: 20px;
 width: 250px;}
