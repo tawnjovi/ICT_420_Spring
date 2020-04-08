@@ -16,6 +16,8 @@ h1{font-family: TimesNewRoman, serif;
 
 #p1{margin-top: 0;}
 
+nav{margin-top: 0;}
+
 body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
@@ -26,7 +28,8 @@ margin-right: auto;
 width: 100%;
 padding: 2px;}
 
-.img1{border: 3px solid white; }
+.img1{border: 3px solid white;
+margin-top: 0;}
 
 .img2{border: 3px solid gold;
 background-color: #42e3f5; }
@@ -48,4 +51,4 @@ width: 250px;}
 
 input{position: fixed;
   top: 28px;
-left: 700px;}
+left: 660px;}
