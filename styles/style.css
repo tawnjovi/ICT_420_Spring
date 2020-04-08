@@ -14,7 +14,8 @@ h1{font-family: TimesNewRoman, serif;
   margin-bottom: 0;
 }
 
-#p1{margin-top: 0;}
+#p1{margin-top: 0;
+margin-bottom: 5px}
 
 nav{margin-top: 10px;}
 
