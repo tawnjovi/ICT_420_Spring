@@ -44,9 +44,9 @@ form{width: 80%;
 
 textarea{position: fixed;
   resize: none;
-  align-self: left;
+  align-self: right;
   height: 15px;
 width: 250px;}
 
 input{position: fixed;
-  align-self: left;}
+  align-self: right;}
