@@ -39,7 +39,7 @@ background-color: coral;}
 form{width: 80%;
     margin: 80px[/B] 30px 0 0;}
 
-textarea{position: absolute;
+textarea + #button{position: absolute;
   top: 5px;
 left: 490px;}
 
