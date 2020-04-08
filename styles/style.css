@@ -42,13 +42,13 @@ background-color: coral;}
 form{width: 80%;
     margin: 80px[/B] 30px 0 0;}
 
-textarea{position: fixed;
+textarea{
   resize: none;
   float: center;
   text-align: center;
   height: 15px;
 width: 250px;}
 
-input{position: fixed;
+input{
   float: center;
 text-align: center;}
