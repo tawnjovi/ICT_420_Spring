@@ -1,3 +1,12 @@
+a:hover{color: yellow;
+}
+
+a:link{color: cyan;
+}
+
+a:visited{color: grey;
+}
+
 h1{font-family: TimesNewRoman, serif;
   background-color:#030303 ;
   color: red;
@@ -11,28 +20,15 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
-.img1{display: block;
+.img1 ~ .img2{display: block;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
-padding: 2px;
-border: 3px solid white; }
+padding: 2px;}
 
-a:hover{color: yellow;
-}
+.img1{border: 3px solid white; }
 
-a:link{color: cyan;
-}
-
-a:visited{color: grey;
-}
-
-.img2{display: block;
-margin-left: auto;
-margin-right: auto;
-width: 100%;
-padding: 2px;
-border: 3px solid gold;
+.img2{border: 3px solid gold;
 background-color: #42e3f5; }
 
 footer{font-size: 16px;
