@@ -46,6 +46,6 @@ textarea{position: fixed;
   top: 5px;
 left: 490px;}
 
-textarea ~ input{resize: none;
+textarea{resize: none;
   height: 15px;
 width: 250px;}
