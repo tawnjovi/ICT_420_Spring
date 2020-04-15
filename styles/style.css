@@ -40,7 +40,6 @@ margin-top: 0;}
 background-color: #42e3f5; }
 
 footer{display: grid;
-  grid-row: 2;
   grid-template-columns: repeat(5, 1fr);
 font-size: 16px;
 border: 2px solid white;
