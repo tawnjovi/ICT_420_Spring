@@ -18,7 +18,7 @@ h1{font-family: TimesNewRoman, serif;
 margin-bottom: 5px;}
 
 nav{display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   margin-top: 0;}
 
 body{font-family: ariel, sans-serif;
