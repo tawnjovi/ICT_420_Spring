@@ -19,8 +19,7 @@ margin-bottom: 5px;}
 
 nav{display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-   grid-template-rows: 1fr;
-  margin-top: 0;}
+   grid-template-rows: 1fr;}
 
 body{font-family: ariel, sans-serif;
   color: white;
