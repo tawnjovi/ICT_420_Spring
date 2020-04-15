@@ -18,7 +18,6 @@ h1{font-family: TimesNewRoman, serif;
 margin-bottom: 5px;}
 
 nav{display: grid;
-  grid-row: 1;
   grid-template-columns: : repeat(5, 1fr);
   grid-gap: 5px;
   margin-top: 0;
