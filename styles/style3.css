@@ -18,13 +18,13 @@ footer{font-size: 16px;
 border: 2px solid white;
 background-color: coral;}
 
-form{width: 80%;}
+#form1{width: 80%;}
 
-textarea{position: fixed;
+#textarea1{position: fixed;
   resize: none;
   text-align: right;
   height: 15px;
 width: 250px;}
 
-input{position: fixed;
+#input1{position: fixed;
 text-align: right;}
