@@ -19,7 +19,8 @@ margin-bottom: 5px;}
 
 nav{display: grid;
   grid-row: 1;
-  grid-template-columns: : 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: : repeat(5, 1fr);
+  grid-gap: 5px;
   margin-top: 0;
 margin-bottom: 0;}
 
