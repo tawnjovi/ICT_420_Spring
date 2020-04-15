@@ -1,3 +1,24 @@
+a:hover{color: yellow;
+}
+
+a:link{color: cyan;
+}
+
+a:visited{color: grey;
+}
+
+h1{font-family: TimesNewRoman, serif;
+  background-color:#030303 ;
+  color: red;
+  border: 3px solid #7b42f5;
+  margin-bottom: 0;
+}
+
+#p1{margin-top: 0;
+margin-bottom: 5px}
+
+nav{margin-top: 0;}
+
 body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
