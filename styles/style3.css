@@ -1,0 +1,30 @@
+body{font-family: ariel, sans-serif;
+  color: white;
+  background-color: #030303;}
+
+#p1 ~ img{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+padding: 2px;}
+
+.img1{border: 3px solid white;
+margin-top: 0;}
+
+.img2{border: 3px solid gold;
+background-color: #42e3f5; }
+
+footer{font-size: 16px;
+border: 2px solid white;
+background-color: coral;}
+
+form{width: 80%;}
+
+textarea{position: fixed;
+  resize: none;
+  text-align: right;
+  height: 15px;
+width: 250px;}
+
+input{position: fixed;
+text-align: right;}
