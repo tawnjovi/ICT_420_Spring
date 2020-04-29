@@ -56,14 +56,5 @@ width: 250px;}
 #input1{position: fixed;
 text-align: right;}
 
-#textarea2{resize: none;
+#textarea2 ~ textarea{resize: none;
   }
-
-#textarea3{resize: none;
-    }
-
-#textarea4{resize: none;
-      }
-
-#textarea5{resize: none;
-        }
