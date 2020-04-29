@@ -35,11 +35,15 @@ padding: 2px;
 border: 3px solid gold;
 background-color: #42e3f5; }
 
-footer{display: grid;
+.footer1{display: grid;
   grid-template-columns: repeat(5, 1fr);
 font-size: 16px;
 border: 2px solid white;
-background-color: coral;}
+background-color: coral;
+margin-bottom: 0;}
+
+.footer2{margin-top: 0;
+  font-size: 10px;}
 
 #form1{width: 80%;}
 
