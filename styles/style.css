@@ -27,6 +27,24 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
+  section {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  section a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  section a:hover {
+    background-color: #777;
+  }
+/*
 .section2{display: grid;
   grid-row: 3;
   grid-template-columns: repeat(3, 1fr);
@@ -37,7 +55,7 @@ body{font-family: ariel, sans-serif;
 .section2 > img{width: 100%;
   height: auto;
 }
-
+*/
 .img1{display: block;
 margin-left: auto;
 margin-right: auto;
