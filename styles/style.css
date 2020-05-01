@@ -30,8 +30,8 @@ body{font-family: ariel, sans-serif;
 .section2{display: grid;
   grid-row: 3;
   grid-template-columns: repeat(3, 1fr);
-  grid-column-gap: 55px;
-  grid-row-gap: 90px;
+  grid-column-gap: 22px;
+  grid-row-gap: 50px;
   }
 
 .section2 > img{max-width: 5%;
