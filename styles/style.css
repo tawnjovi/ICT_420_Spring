@@ -34,7 +34,7 @@ body{font-family: ariel, sans-serif;
   grid-row-gap: 50px;
   }
 
-.section2 > img{width: 20%;
+.section2 > img{width: 100%;
   height: auto;
 }
 
