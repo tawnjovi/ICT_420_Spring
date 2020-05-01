@@ -27,12 +27,14 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
-.section2{max-width: 27%;
-  height: auto;
-  display: grid;
+.section2{display: grid;
   grid-row: 3;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 35px;
+  }
+
+.section2 > img{max-width: 27%;
+  height: auto;
   }
 
 #p1 ~ img{display: block;
