@@ -27,6 +27,11 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
+.section2{display: grid;
+  grid-row: 3;
+  grid-template-columns: repeat(3, 1fr);
+  }
+
 #p1 ~ img{display: block;
 margin-left: auto;
 margin-right: auto;
@@ -35,9 +40,6 @@ padding: 2px;}
 
 .img1{border: 3px solid white;
 margin-top: 0;}
-
-.img2{border: 3px solid gold;
-background-color: #42e3f5; }
 
 .footer1{display: grid;
   grid-template-columns: repeat(5, 1fr);
