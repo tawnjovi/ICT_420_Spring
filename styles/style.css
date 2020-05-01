@@ -35,7 +35,7 @@ body{font-family: ariel, sans-serif;
   }
 
 .section2 > img{width: 20%;
-  height: 30px;
+  height: auto;
 }
 
 .img1{display: block;
