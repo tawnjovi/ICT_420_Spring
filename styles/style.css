@@ -32,6 +32,7 @@ body{font-family: ariel, sans-serif;
   display: grid;
   grid-row: 3;
   grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 35px;
   }
 
 #p1 ~ img{display: block;
