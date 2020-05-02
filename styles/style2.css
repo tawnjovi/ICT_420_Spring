@@ -50,7 +50,7 @@ margin-bottom: 0;}
 
 form{width: 80%;}
 
-textarea{position: fixed;
+#searchinput{position: fixed;
   resize: none;
   text-align: right;
   height: 15px;
