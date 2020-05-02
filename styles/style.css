@@ -27,14 +27,14 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
-  section {
+  figure {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
     position: relative;
   }
 
-  section a {
+  figure a {
     display: inline-block;
     color: white;
     text-align: center;
@@ -42,12 +42,12 @@ body{font-family: ariel, sans-serif;
     text-decoration: none;
   }
 
-  section a:hover {
+  figure a:hover {
     background-color: #D4AF37;
   }
 
 
-section span {
+figure span {
     position: absolute;
     right: 10px;
     top: 10px;
