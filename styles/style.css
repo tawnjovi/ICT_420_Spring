@@ -64,6 +64,11 @@ section span {
   height: auto;
 }
 */
+
+#logo{width: 250px;
+  height: auto;
+}
+
 .img1{display: block;
 margin-left: auto;
 margin-right: auto;
