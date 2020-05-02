@@ -27,7 +27,7 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
-#p1 ~ img{display: block;
+#p1 > img{display: block;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
