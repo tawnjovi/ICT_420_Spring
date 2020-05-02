@@ -57,6 +57,10 @@ margin-bottom: 0;}
   height: 15px;
 width: 250px;}
 
+#textarea5{resize: none;
+height: 200px;
+width: 400px;}
+
 #input1{position: fixed;
 text-align: right;}
 
@@ -68,6 +72,3 @@ text-align: right;}
 
 #textarea4{resize: none;
       }
-
-#textarea5{resize: none;
-        }
