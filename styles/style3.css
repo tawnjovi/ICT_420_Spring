@@ -51,7 +51,7 @@ margin-bottom: 0;}
 
 #form1{width: 80%;}
 
-#textarea1{position: fixed;
+#searchinput{position: fixed;
   resize: none;
   text-align: right;
   height: 15px;
@@ -60,11 +60,6 @@ width: 250px;}
 #textarea5{resize: none;
 height: 140px;
 width: 310px;}
-
-#searchinput{resize:none;
-  height: 16px;
-  width: 100px;
-}
 
 #input1{position: fixed;
 text-align: right;}
