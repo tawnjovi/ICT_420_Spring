@@ -62,7 +62,8 @@ height: 140px;
 width: 310px;}
 
 #searchinput{resize:none;
-  width: 270px;
+  height: 16px;
+  width: 100px;
 }
 
 #input1{position: fixed;
