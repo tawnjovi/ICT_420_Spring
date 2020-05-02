@@ -27,6 +27,10 @@ body{font-family: ariel, sans-serif;
   color: white;
   background-color: #030303;}
 
+#logo{width: 250px;
+  height: auto;
+}
+
 .pic{display: block;
 margin-left: auto;
 margin-right: auto;
